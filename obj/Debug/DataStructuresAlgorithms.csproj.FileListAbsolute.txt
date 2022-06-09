@@ -1,0 +1,14 @@
+C:\Projects\datastructures\DataStructuresAlgorithms\bin\Debug\DataStructuresAlgorithms.exe.config
+C:\Projects\datastructures\DataStructuresAlgorithms\bin\Debug\DataStructuresAlgorithms.exe
+C:\Projects\datastructures\DataStructuresAlgorithms\bin\Debug\DataStructuresAlgorithms.pdb
+C:\Projects\datastructures\DataStructuresAlgorithms\obj\Debug\DataStructuresAlgorithms.csprojAssemblyReference.cache
+C:\Projects\datastructures\DataStructuresAlgorithms\obj\Debug\DataStructuresAlgorithms.csproj.CoreCompileInputs.cache
+C:\Projects\datastructures\DataStructuresAlgorithms\obj\Debug\DataStructuresAlgorithms.exe
+C:\Projects\datastructures\DataStructuresAlgorithms\obj\Debug\DataStructuresAlgorithms.pdb
+C:\Projects\datastructures\bin\Debug\DataStructuresAlgorithms.exe.config
+C:\Projects\datastructures\bin\Debug\DataStructuresAlgorithms.exe
+C:\Projects\datastructures\bin\Debug\DataStructuresAlgorithms.pdb
+C:\Projects\datastructures\obj\Debug\DataStructuresAlgorithms.csprojAssemblyReference.cache
+C:\Projects\datastructures\obj\Debug\DataStructuresAlgorithms.csproj.CoreCompileInputs.cache
+C:\Projects\datastructures\obj\Debug\DataStructuresAlgorithms.exe
+C:\Projects\datastructures\obj\Debug\DataStructuresAlgorithms.pdb
